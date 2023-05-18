@@ -9,5 +9,21 @@
 }
 
 .card-body{
-  background-color: rgb(201, 201, 201);
+  background-color: #F8F8FF;
+}
+
+.bg-foot{
+  background-color: #FFD700;
+}
+
+.bg-blue{
+  background-color: #4169E1;
+}
+
+nav .nav-link.text-yellow{
+  color: #FFD700;
+}
+
+.text-yellow:hover {
+  font-weight: bold;
 }
